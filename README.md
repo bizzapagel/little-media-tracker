@@ -1,2 +1,3 @@
-# weight-tracker
-A fancy app for weight tracking.
+# Weight Tracker
+
+A nice-looking app for tracking your weight.
