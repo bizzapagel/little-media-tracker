@@ -1,4 +1,4 @@
 # Weight Tracker
 
-A nice-looking app for tracking your weight.
+A nice-looking web app for tracking your weight.
 
