@@ -1,4 +1,4 @@
 # Weight Tracker
 
-A little app for tracking weight loss (or gain).
+A little web app for tracking weight loss (or gain).
 
