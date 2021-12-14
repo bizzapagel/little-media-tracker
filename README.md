@@ -1,3 +1,3 @@
 # Weight Tracker
 
-A little web app for tracking weight loss.
+A little app for tracking weight loss.
