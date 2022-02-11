@@ -1,3 +1,3 @@
 # Weight Tracker
 
-A little app for tracking weight loss (or gain).
+(convert this repo into Little Media Tracker app)
