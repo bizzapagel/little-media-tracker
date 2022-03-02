@@ -1,3 +1,7 @@
-# Weight Tracker
+# Little Media Tracker
 
-(convert this repo into Little Media Tracker app)
+A minimalist web app for tracking various types of media.
+
+* Movies
+* TV Shows
+* Video Games
