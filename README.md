@@ -6,3 +6,4 @@ A minimalist web app for tracking various types of media.
 * TV Shows
 * Video Games
 * Books
+* Comics?
