@@ -1,4 +1,4 @@
-# Little Media Tracker
+# Mediadora
 
 A minimalist web app for tracking various types of media.
 
